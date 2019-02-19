@@ -1,2 +1,2 @@
 # LearnGit
-LearnGit
+LearnGit is good!
